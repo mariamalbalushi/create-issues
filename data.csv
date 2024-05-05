@@ -1,0 +1,16 @@
+title/description
+Validation messages should be more clear in forms
+Add tool tip for image upload(file number, type and size)
+back button to the correct tab
+Add (*) next to required felids
+Add maximum size to comments felids
+Add total cost card in Analytics(remove total profit)to the Dashboard
+phone number not showed in the technician table/In service provider->technician tab
+Province and governorate are missing in create tickets in service request
+Add service list and service cost in service request
+Add in stock felid in table in Inventory List
+Search SP need to Add not sensitive case in Inventory
+Add tool-tip for SKU in Inventory
+Edit Assigned service provider enhance design in Inventory
+Enhance upload image design in Inventory
+Use full-name in Account header
